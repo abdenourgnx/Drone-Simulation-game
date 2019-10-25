@@ -1,6 +1,6 @@
 # Drone-Simulation-game
 
-###The application is divided into 3 main parts : 
+### The application is divided into 3 main parts : 
 
 1. Game : 
    - Simple game using the mouse avoid objects and try to reach a high score , the difficulty increases with time , the high-score is stored in a file called score.txt
