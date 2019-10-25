@@ -10,5 +10,5 @@
    - Using the data from the MPU-6050  real time data the app visulize the 3 angles of the real drone into 3D model drone
 
 3. hyprid : 
-   -Now we use the MP-6050 data to control our game 
+   - Now we use the MP-6050 data to control our game 
 
