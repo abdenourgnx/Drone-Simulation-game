@@ -1,6 +1,6 @@
 # Drone-Simulation-game
 
-#### The application is divided into 3 main parts : 
+**The application is divided into 3 main parts :** 
 
 
 
